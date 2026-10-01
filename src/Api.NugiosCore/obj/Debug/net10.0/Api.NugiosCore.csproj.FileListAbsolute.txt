@@ -1,0 +1,11 @@
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\obj\Debug\net10.0\Api.NugiosCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\obj\Debug\net10.0\Api.NugiosCore.AssemblyInfoInputs.cache
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\obj\Debug\net10.0\Api.NugiosCore.AssemblyInfo.cs
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\obj\Debug\net10.0\Api.NugiosCore.csproj.CoreCompileInputs.cache
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\bin\Debug\net10.0\Api.NugiosCore.deps.json
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\bin\Debug\net10.0\Api.NugiosCore.dll
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\bin\Debug\net10.0\Api.NugiosCore.pdb
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\obj\Debug\net10.0\Api.NugiosCore.dll
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\obj\Debug\net10.0\refint\Api.NugiosCore.dll
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\obj\Debug\net10.0\Api.NugiosCore.pdb
+C:\Users\Bagrati\Desktop\NugiosCore.Automation\src\Api.NugiosCore\obj\Debug\net10.0\ref\Api.NugiosCore.dll

@@ -1,0 +1,26 @@
+name: Run C# Tests and Trigger AI Pipeline
+
+on:
+  push:
+    branches: ["main", "master"]
+  pull_request:
+    branches: ["main", "master"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x" # ან შენი .NET ვერსია (მაგ. 9.0.x)
+
+      - name: Restore Dependencies
+        run: dotnet restore
+
+      - name: Run xUnit Tests
+        run: dotnet test --no-restore --verbosity normal
