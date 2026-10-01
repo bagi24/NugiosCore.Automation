@@ -20,9 +20,7 @@ jobs:
           dotnet-version: "8.0.x"
 
       - name: Restore Dependencies
-        working-directory: tests/Api.Tests.NugiosCore
         run: dotnet restore
 
       - name: Run xUnit Tests
-        working-directory: tests/Api.Tests.NugiosCore
         run: dotnet test --no-restore --verbosity normal
