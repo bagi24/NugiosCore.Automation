@@ -17,10 +17,10 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: "8.0.x" # ან შენი .NET ვერსია (მაგ. 9.0.x)
+          dotnet-version: "8.0.x"
 
       - name: Restore Dependencies
-        run: dotnet restore
+        run: dotnet restore tests/Api.Tests.NugiosCore/Api.Tests.NugiosCore.csproj
 
       - name: Run xUnit Tests
-        run: dotnet test --no-restore --verbosity normal
+        run: dotnet test tests/Api.Tests.NugiosCore/Api.Tests.NugiosCore.csproj --no-restore --verbosity normal
