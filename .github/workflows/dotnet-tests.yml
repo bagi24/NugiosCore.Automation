@@ -23,4 +23,4 @@ jobs:
         run: dotnet restore
 
       - name: Run xUnit Tests
-        run: dotnet test --no-restore --verbosity normal -- TestingPlatformCommandLineArguments=""
+        run: dotnet test --no-restore --verbosity normal

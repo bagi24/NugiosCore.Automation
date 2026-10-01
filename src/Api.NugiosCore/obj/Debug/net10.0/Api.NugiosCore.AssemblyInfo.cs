@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Api.NugiosCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bce2d43e43875193035e1bb2bfd38049275a570f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Api.NugiosCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Api.NugiosCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
