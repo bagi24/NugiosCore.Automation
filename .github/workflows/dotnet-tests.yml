@@ -20,7 +20,7 @@ jobs:
           dotnet-version: "10.0.x"
 
       - name: Restore Dependencies
-        run: dotnet restore
+        run: dotnet restore tests/Api.Tests.NugiosCore/Api.Tests.NugiosCore.csproj
 
       - name: Run xUnit Tests
-        run: dotnet test --no-restore --verbosity normal
+        run: dotnet test tests/Api.Tests.NugiosCore/Api.Tests.NugiosCore.csproj --no-restore --verbosity normal
