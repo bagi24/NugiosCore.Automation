@@ -1,8 +1,0 @@
-<Solution>
-  <Folder Name="/src/">
-    <Project Path="src/Api.NugiosCore/Api.NugiosCore.csproj" />
-  </Folder>
-  <Folder Name="/tests/">
-    <Project Path="tests/Api.Tests.NugiosCore/Api.Tests.NugiosCore.csproj" />
-  </Folder>
-</Solution>
